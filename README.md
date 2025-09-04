@@ -1,1 +1,1 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=onionloop&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=onionloop&show_icons=true&theme=tokyonight&hide=contribs,prs)
