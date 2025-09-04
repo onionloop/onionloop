@@ -1,1 +1,1 @@
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onionloop&theme=tokyonight) ![trophy](https://github-profile-trophy.vercel.app/?username=onionloop&theme=tokyonight&row=1&column=6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onionloop&theme=tokyonight) 
