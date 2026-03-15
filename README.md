@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Aditya More 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=600&lines=Code+AI+Cars+Music+~same+energy+different+domain" />
+  <img src="./assets/banner1.gif" width="60%" />
 </p>
 
 ---
@@ -56,6 +56,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=onionloop&theme=tokyonight" />
 </p>
+
 
 ---
 
