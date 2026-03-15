@@ -6,18 +6,11 @@
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Currently working on **open source projects**
-- 🌱 Always learning and leveling up
-- 💬 Ask me anything — I don't bite
-- ⚡ Fun fact: I commit code and commit to the grind
-
 
 
 ## 🚀 About Me
 
-- 🔭 Currently working on — DSA grind → Full Stack (JS + Python)
+- 🔭 Currently working on → Full Stack (JS + Python)
 - 🌱 Always learning and leveling up
 - 💬 Ask me anything
 - ⚡ I commit code and commit to the grind
