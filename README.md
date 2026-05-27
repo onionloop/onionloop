@@ -10,17 +10,6 @@
 
 ---
 
-
-
-## 🚀 About Me
-
-- 🔭 Currently working on → Full Stack (JS + Python)
-- 🌱 Always learning and leveling up
-- 💬 Ask me anything
-- ⚡ I commit code and commit to the grind
-
----
-
 ## 🛠 Current Stack
 
 **Languages**
