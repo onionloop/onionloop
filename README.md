@@ -51,28 +51,25 @@
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=onionloop&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=onionloop&theme=github-dark-blue&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amore147&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amore147&theme=github-dark-blue&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onionloop&layout=compact&theme=github_dark&hide_border=true" height="145"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amore147&layout=compact&theme=github_dark&hide_border=true" height="145"/>
 </div>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=onionloop.onionloop" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=amore147.amore147" />
 </p>
-
 
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer)
 
 </div>
-
-
